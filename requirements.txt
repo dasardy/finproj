@@ -1,0 +1,9 @@
+flet
+matplotlib
+plotly
+numpy
+sqlite3
+datetime
+-U kaleido
+tapi_yandex_metrika
+requests
